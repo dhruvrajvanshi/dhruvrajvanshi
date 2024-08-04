@@ -3,7 +3,7 @@ I've been working as a professional programmer since 2015.
 
 I work on compilers and programming languages as a hobby.
 
-Check out [Hades](https://github.com/dhruvrajvanshi/hades), which
+Check out [Hades](https://github.com/dhruvrajvanshi/hades-lang), which
 is my own programming language on which I've been working on since
 2020.
 
