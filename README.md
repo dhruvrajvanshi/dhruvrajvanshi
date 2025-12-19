@@ -1,4 +1,5 @@
-I'm a Software Engineer from India, currently living in Berlin, Germany.
+I'm a Software Engineer based in Berlin.
+
 I've been working as a professional programmer since 2015.
 
 I work on compilers and programming languages as a hobby.
